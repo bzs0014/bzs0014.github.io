@@ -18,12 +18,6 @@ const translations = {
     "status.title": "Open to research collaboration",
     "status.body":
       "Fish genetics, genome editing, aquaculture genomics, disease resistance, molecular breeding, and AI-assisted bioinformatics.",
-    "metrics.focus.value": "5",
-    "metrics.focus.label": "Research focus areas",
-    "metrics.methods.value": "Multi-omics",
-    "metrics.methods.label": "Computational workflows",
-    "metrics.status.value": "Open",
-    "metrics.status.label": "Collaboration status",
     "about.kicker": "About",
     "about.title": "Research at the interface of biology and computation",
     "about.body1":
@@ -109,12 +103,6 @@ const translations = {
     "status.title": "开放科研合作",
     "status.body":
       "鱼类遗传学、基因编辑、水产基因组学、抗病育种、分子育种和 AI 辅助生物信息分析。",
-    "metrics.focus.value": "5",
-    "metrics.focus.label": "研究方向",
-    "metrics.methods.value": "多组学",
-    "metrics.methods.label": "计算分析流程",
-    "metrics.status.value": "开放",
-    "metrics.status.label": "合作状态",
     "about.kicker": "关于",
     "about.title": "在生物学与计算分析的交叉处开展研究",
     "about.body1":
